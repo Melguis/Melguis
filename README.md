@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Melguis
+- 👀 I’m interested in learn new things
+- 🌱 I’m currently learning html, css, javascript
+- 📫 How to reach me: (61) 983457180
