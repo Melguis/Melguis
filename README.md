@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Melguis
+- 👋 Hi, I’m Jorge Henrique
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning html, css, javascript
-- 📫 How to reach me: (61) 983457180
+- 🌱 I’m currently learning Angular, React, React Native
+- 📫 Phone: +55 (61) 983457180
