@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Jorge Henrique
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning Angular, React, React Native
+- 🌱 I’m currently learning front-end: HTML, CSS, JavaScript, React, React Native
 - 📫 Phone: +55 (61) 983457180
